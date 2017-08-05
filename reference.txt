@@ -1,0 +1,1 @@
+http://wijmo.com/5/docs/topic/wijmo.nav.TreeView.Class.html#allowDragging
